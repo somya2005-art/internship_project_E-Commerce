@@ -2,7 +2,8 @@
 - This is a desktop-focused e-commerce web page designed to showcase various products offered by the company. The page includes multiple manual swipe sliders to let users explore product categories and featured items in an interactive way.
 
 🔗 Live Preview
-👉 Check it out here
+
+👉 https://somya2005-art.github.io/internship_project_E-Commerce/
 
 🧰 Built With
 - HTML5
