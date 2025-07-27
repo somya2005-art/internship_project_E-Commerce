@@ -17,10 +17,10 @@
     - Users can swipe/drag through product cards manually for each category or section.
 
 2. Clean Layout:
-  - Organized product cards and sections for easy browsing.
+    - Organized product cards and sections for easy browsing.
 
 3. Built with Sass Functions:
-  - For consistent styling and maintainability.
+    - For consistent styling and maintainability.
 
 💡 Highlights
 1. Manually swipeable sections allow smooth navigation across product lines.
